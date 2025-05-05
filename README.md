@@ -131,5 +131,3 @@ Default parameters may need tuning for different datasets
 License
 MIT License. Permission is granted for both academic and commercial use, with attribution.
 
-Contact
-
