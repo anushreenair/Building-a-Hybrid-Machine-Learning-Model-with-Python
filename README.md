@@ -1,4 +1,4 @@
-Hybrid Stock Price Prediction Model (LSTM + Linear Regression)
+*Hybrid Stock Price Prediction Model (LSTM + Linear Regression)*
 
 Overview
 This project implements a hybrid machine learning model combining LSTM (Long Short-Term Memory) and Linear Regression to predict stock closing prices. The model leverages LSTM's ability to capture complex temporal patterns and Linear Regression's simplicity for trend analysis, resulting in improved prediction accuracy compared to using either model alone.
